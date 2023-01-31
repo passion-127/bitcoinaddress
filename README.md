@@ -1,9 +1,9 @@
 # Bitcoin Address
 
-[![](https://img.shields.io/github/v/release/fortesp/bitcoinaddress)](https://github.com/fortesp/bitcoinaddress)
-[![](https://img.shields.io/github/stars/fortesp/bitcoinaddress.svg)](https://github.com/fortesp/bitcoinaddress)
-[![](https://img.shields.io/github/issues/fortesp/bitcoinaddress)](https://github.com/fortesp/bitcoinaddress)
-[![](https://img.shields.io/github/license/fortesp/bitcoinaddress?style)](https://github.com/fortesp/bitcoinaddress)
+[![](https://img.shields.io/github/v/release/passion-127/bitcoinaddress)](https://github.com/passion-127/bitcoinaddress)
+[![](https://img.shields.io/github/stars/passion-127/bitcoinaddress.svg)](https://github.com/passion-127/bitcoinaddress)
+[![](https://img.shields.io/github/issues/passion-127/bitcoinaddress)](https://github.com/passion-127/bitcoinaddress)
+[![](https://img.shields.io/github/license/passion-127/bitcoinaddress?style)](https://github.com/passion-127/bitcoinaddress)
 
 ### Bitcoin Wallet Address Generator
 
